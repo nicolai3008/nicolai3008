@@ -1,6 +1,7 @@
 ### Hey!! I'm Nicolai!
-
-<!-- links to different places -->
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolai-amin-5156b9230/)
+-->
 ---
 ### Happy to meet you!
 I am a physics student, reading my bachelor, currently on my 6th semester, 
