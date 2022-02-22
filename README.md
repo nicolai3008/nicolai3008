@@ -6,10 +6,10 @@
 ### Happy to meet you!
 I am a physics student, reading my bachelor, currently on my 6th semester, 
 and I have a passion for programming, simulation and automation. 
-<img align="right" alt="GIF" src="https://github.com/nicolai3008/nicolai3008/blob/main/gif" width="408" height="318" />
+
 
 **What I'm up to?**
-
+<img align="right" alt="GIF" src="https://github.com/nicolai3008/nicolai3008/blob/main/gif.gif" width="408" height="318" />
 - This semester i am working on my bachelor project, focusing on simulating the state-of-the-art instrument BIFROST, being built along with the ESS in Lund, Sweden
 - I am also learning about visualisation of nano-objects, as well as machine learning
 - On the side, I am learning different coding languages to further my passion for programming (both front and back-end development, as well as practicing my data anlysis tactics)
