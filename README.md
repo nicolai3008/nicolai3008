@@ -1,4 +1,4 @@
-### Hey!! I'm Nicolai!
+## Hey!! I'm Nicolai!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolai-amin-5156b9230/)
 
