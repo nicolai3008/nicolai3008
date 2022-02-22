@@ -6,7 +6,7 @@
 ### Happy to meet you!
 I am a physics student, reading my bachelor, currently on my 6th semester, 
 and I have a passion for programming, simulation and automation. 
-<img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/nicolai3008/nicolai3008/blob/main/gif" width="408" height="318" />
 
 **What I'm up to?**
 
