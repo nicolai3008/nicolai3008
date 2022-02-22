@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolai-amin-5156b9230/)
 
 ---
-### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=EllaRekow.EllaRekow)
+### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nicolai3008/nicolai3008)
 I am a physics student, reading my bachelor, currently on my 6th semester, 
 and I have a passion for programming, simulation and automation. 
 
