@@ -21,7 +21,7 @@ and I have a passion for programming, simulation and automation.
 **What've I been up to this week?** 
 
 <!--START_SECTION:waka-->
-
-
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
