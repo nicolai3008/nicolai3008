@@ -21,8 +21,10 @@ and I have a passion for programming, simulation and automation.
 **What've I been up to this week?** 
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       26 mins         █████████████░░░░░░░░░░░░   51.46 % 
-Other        24 mins         ████████████░░░░░░░░░░░░░   48.19 % 
+Python       3 hrs 41 mins   █████████████████████▒░░░   84.81 %
+Other        37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
 ```
+
 <!--END_SECTION:waka-->
