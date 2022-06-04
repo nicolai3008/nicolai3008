@@ -23,9 +23,10 @@ and I have a passion for programming, simulation and automation.
 <!--START_SECTION:waka-->
 
 ```text
-Python   7 hrs 30 mins   ████████████████████████▓   98.54 %
-Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python   7 hrs 42 mins   ██████████████████████░░░   88.56 %
+HTML     53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
