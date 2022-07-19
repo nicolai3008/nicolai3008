@@ -26,7 +26,6 @@ and I have a passion for programming, simulation and automation.
 CSS          16 mins         █████████████████▒░░░░░░░   69.63 %
 JavaScript   7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.15 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
