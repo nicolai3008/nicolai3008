@@ -23,9 +23,9 @@ and I have a passion for programming, simulation and automation.
 <!--START_SECTION:waka-->
 
 ```text
-CSS          16 mins         █████████████████▒░░░░░░░   69.63 %
-JavaScript   7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.15 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+CSS          16 mins         ██████████████████░░░░░░░   72.19 %
+JavaScript   6 mins          ███████░░░░░░░░░░░░░░░░░░   27.59 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
