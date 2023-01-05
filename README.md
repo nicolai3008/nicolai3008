@@ -17,7 +17,7 @@ and I have a passion for programming, simulation and automation.
 - I am also the coordinator for DTU Physics Open House event, and work as a TA in several different subjects, for students of many different ages
 - Renovating my kitchen
 
-**Fluencent in:**
+**Fluent in:**
 
 * Python (also Machine Learning)
 * MatLab
