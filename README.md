@@ -4,8 +4,6 @@
 
 ---
 
-> [!NOTE] Note
-
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nicolai3008/nicolai3008)
 
 I am a physics student, reading my bachelor, currently on my 7th semester,
