@@ -6,12 +6,12 @@
 
 ###  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nicolai3008/nicolai3008)
 
-I am a physics engineer the 3rd semester of my bachelor.
+I am a physics engineer the 3rd semester of my masters.
 I have a main focus area on neutron instrumentation, magnetism and solid state physics.
 
 **Fluent in:**
 
-* Python (also Machine Learning)
+* Python
 * MatLab
 * C
 * JavaScript
