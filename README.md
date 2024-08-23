@@ -32,17 +32,17 @@ Most recently, I spent the summer of 2024 working as a summer student at PSI for
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 August 2024 - To: 20 August 2024
+From: 14 August 2024 - To: 21 August 2024
 
-Total Time: 4 hrs 53 mins
+Total Time: 4 hrs 40 mins
 
-FortranFixed   3 hrs 33 mins   ██████████████████▒░░░░░░   72.71 %
-Python         53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
-C              14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Fortran        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Markdown       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-PHP            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+FortranFixed   3 hrs 31 mins   ██████████████████▓░░░░░░   75.03 %
+Python         39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+C              19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Fortran        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Markdown       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+PHP            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
