@@ -4,8 +4,6 @@
 
 ---
 
-&nbsp; ![Alt Text](https://visitor-badge.glitch.me/badge?page_id=nicolai3008/nicolai3008)
-
 I am a physics engineer the 4th semester of my masters. I am specialized in solid state physics, more specifically neutron scattering, magnetism and software implementation, currently studying at Ecole Polytechnique Federale de Lausanne ([EPFL](https://www.epfl.ch/en/)), for a semester abroad.
 
 Most recently, I spent the summer of 2024 working as a summer student at PSI for the Labratory of Neutron Scattering and Imaging ([LNS](https://www.psi.ch/en/lns)). Specifically I helped design the Wide-Angle high-Resolution spectrometer with Polarization option, WARP. It is an instrument similar to [CAMEA](https://www.psi.ch/en/sinq/camea), but with a higher resolution, and utilizing a new concept, developed at the ILL called Marmot. Along with this I installed an X-ray goniometer on [ZEBRA](https://www.psi.ch/en/sinq/zebra), as well as created a new python script for UB matrix optimization, PyRefine.
