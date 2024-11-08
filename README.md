@@ -1,22 +1,30 @@
-## Hey there, welcome to my page
+# Nicolai Amin - M.Sc. Physics Engineering
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolai-amin-5156b9230/)
 
 ---
 
-###  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nicolai3008/nicolai3008)
+&nbsp; ![Alt Text](https://visitor-badge.glitch.me/badge?page_id=nicolai3008/nicolai3008)
 
-I am a physics engineer the 4th semester of my masters. I am specialized in solid state physics, more specifically neutron scattering, magnetism and software implementation.
+I am a physics engineer the 4th semester of my masters. I am specialized in solid state physics, more specifically neutron scattering, magnetism and software implementation, currently studying at Ecole Polytechnique Federale de Lausanne ([EPFL](https://www.epfl.ch/en/)), for a semester abroad.
 
-Most recently, I spent the summer of 2024 working as a summer student at PSI for the Labratory of Neutron Scattering and Imaging ([LNS](https://www.psi.ch/en/lns)). Specifically I helped design an instrument similar to [CAMEA](https://www.psi.ch/en/sinq/camea), but with a higher resolution, and utilizing a new concept. Along with this I installed an X-ray goniometer on [ZEBRA](https://www.psi.ch/en/sinq/zebra).
+Most recently, I spent the summer of 2024 working as a summer student at PSI for the Labratory of Neutron Scattering and Imaging ([LNS](https://www.psi.ch/en/lns)). Specifically I helped design the Wide-Angle high-Resolution spectrometer with Polarization option, WARP. It is an instrument similar to [CAMEA](https://www.psi.ch/en/sinq/camea), but with a higher resolution, and utilizing a new concept, developed at the ILL called Marmot. Along with this I installed an X-ray goniometer on [ZEBRA](https://www.psi.ch/en/sinq/zebra), as well as created a new python script for UB matrix optimization, PyRefine.
 
 **Portfolio:**
+
 - 2024 - WARP Instrument for PSI: High Resolution continuous angle multi-energy instrument
-  - Designed own McStas Component
-  - Worked at PSI for 2 months to complete this task
+  - Designed McStas compoenent for mechanically curved analyzers
+  - Recreated Marmot geometrical calculations
+  - Implementation of Marmot geometry in McStas
+  - Benchmarking of McStas Marmot simulations compared to real experiments
+  - Optimization of WARP instrument, with differing configurations to compliment the CAMEA instrument
 - 2024 - SLEIPNER Instrument for ESS: Slender, modular instrument for training, utility and increased beamtime
   - Designed and optimized instrument for proposal for ESS
+  - Created gradient descent optimization protocol for McStas simulations
   - Article to be written
+- 2023 - Worked on background scattering on simulated sample environment for BIFROST instrument on McStas
 - 2022 - Worked on Magnon Scattering on a simulated BIFROST instrument on McStas
 
 **Fluent in:**
