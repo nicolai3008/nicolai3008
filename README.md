@@ -10,13 +10,20 @@ Most recently, I spent the summer of 2024 working as a summer student at PSI for
 
 **Portfolio:**
 
-- 2024 - WARP Instrument for PSI: High Resolution continuous angle multi-energy instrument
+- 2024 - [PyRefine](https://github.com/nicolai3008/ZEBRA): Python script for UB matrix optimization
+  - Created a python script for UB matrix optimization
+  - In use on ZEBRA instrument at PSI
+  - Updates and maintenance of script
+  - Further development of script for other instruments and use cases
+- 2024 - Cavity Magnonics experiment at PSI
+  - To update
+- 2024 - [WARP Instrument for PSI](https://github.com/nicolai3008/WARP): High Resolution continuous angle multi-energy instrument
   - Designed McStas compoenent for mechanically curved analyzers
   - Recreated Marmot geometrical calculations
   - Implementation of Marmot geometry in McStas
   - Benchmarking of McStas Marmot simulations compared to real experiments
   - Optimization of WARP instrument, with differing configurations to compliment the CAMEA instrument
-- 2024 - SLEIPNER Instrument for ESS: Slender, modular instrument for training, utility and increased beamtime
+- 2024 - [SLEIPNIR Instrument for ESS](https://github.com/nicolai3008/SLEIPNIR): Slender, modular instrument for training, utility and increased beamtime
   - Designed and optimized instrument for proposal for ESS
   - Created gradient descent optimization protocol for McStas simulations
   - Article to be written
