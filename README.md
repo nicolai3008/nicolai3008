@@ -43,12 +43,12 @@ Most recently, I spent the summer of 2024 working as a summer student at PSI for
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-Total Time: 2 hrs 26 mins
+Total Time: 2 hrs 16 mins
 
-Python       2 hrs 25 mins   █████████████████▒░░░░░░░   68.82 %
-Other        1 hr 4 mins     ███████▓░░░░░░░░░░░░░░░░░   30.65 %
+Python       2 hrs 14 mins   ████████████████▓░░░░░░░░   67.20 %
+Other        1 hr 4 mins     ████████░░░░░░░░░░░░░░░░░   32.24 %
 ```
 
 <!--END_SECTION:waka-->
