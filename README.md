@@ -4,12 +4,20 @@
 
 ---
 
-I am a physics engineer the 4th semester of my masters. I am specialized in solid state physics, more specifically neutron scattering, magnetism and software implementation, currently studying at Ecole Polytechnique Federale de Lausanne ([EPFL](https://www.epfl.ch/en/)), for a semester abroad.
+I am a physics engineer specializing in solid state physics, neutron instrumentation, quantum devices and software implementation. Currently employed at the European Spallation Source Data Management & Scientific Computing centre (ESS DMSC) as a research assistant, working on a novel instrument proposal, Njord and Remora, as well as further work on my masters thesis of creating an accurate 4D resolution function for the ESS instrument BIFROST.
 
-Most recently, I spent the summer of 2024 working as a summer student at PSI for the Labratory of Neutron Scattering and Imaging ([LNS](https://www.psi.ch/en/lns)). Specifically I helped design the Wide-Angle high-Resolution spectrometer with Polarization option, WARP. It is an instrument similar to [CAMEA](https://www.psi.ch/en/sinq/camea), but with a higher resolution, and utilizing a new concept, developed at the ILL called Marmot. Along with this I installed an X-ray goniometer on [ZEBRA](https://www.psi.ch/en/sinq/zebra), as well as created a new python script for UB matrix optimization, PyRefine.
+Starting June 2026, I will start my PhD at the ILL, working at the THALES instrument on Entanglement and topology in Kondo systems. This PhD will be in collaboration with TU Vienna, and will include the development and application of advanced data-analysis techniques, such as precise background subtraction, determination of absolute units, and possibly polarization analysis.
 
 **Portfolio:**
-
+- 2026 - [Njord and Remora](https://github.com/nicolai3008/Njord_Remora): Njord and Remora instrument proposal
+  - Design primary spectrometer for a small sample neutron instrument using NMOs
+  - Design a mushroom like backend for out of plane neutron specification
+  - Create a symbiotic instrument where optics do not affect the majority of the neutrons in the guide
+- 2025 - [BIFROST Resolution Function](https://github.com/nicolai3008/BIFROST_Analysis): 4D resolution function for ESS instrument BIFROST
+  - Created own data analysis methods for the instrument BIFROST
+  - Find 4D resolution function based on linear error propogation of neutron parameters
+  - Visualisation and validation of results with McStas and Matplotlib
+  - Convolution with a single phonon mode, as well as a gapped phonon, exemplifying resolution effects
 - 2024 - [PyRefine](https://github.com/nicolai3008/ZEBRA): Python script for UB matrix optimization
   - Created a python script for UB matrix optimization
   - In use on ZEBRA instrument at PSI
