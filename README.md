@@ -51,13 +51,13 @@ Starting June 2026, I will start my PhD at the ILL, working at the THALES instru
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Total Time: 2 hrs 21 mins
+Total Time: 4 hrs 42 mins
 
-Python     1 hr 53 mins          ██████████████████▓░░░░░░   74.69 %
-Markdown   18 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Other      10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Python     4 hrs 22 mins         ███████████████████████▒░   93.04 %
+Markdown   18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+CSV        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
